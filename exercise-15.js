@@ -17,9 +17,7 @@ function groupAnimals(animals) {
       }
     tam.push(tes)
     }
-    // tam.push(arr.pop())
     for(var j=0;j<tam.length;j++){
-      // for(var k=0;k<)
       if(tam[j][0] !== ''){
         cetak.push(tam[j])
       }
